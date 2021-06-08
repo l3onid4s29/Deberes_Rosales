@@ -10,7 +10,8 @@ int ancho, alto, profundo;
 
 //Constructor Vacío
 public Cubo(){
-
+    System.out.println("Invoca primero constructor");
+    
 }
 
 public Cubo(int ancho,int alto, int profundo){
